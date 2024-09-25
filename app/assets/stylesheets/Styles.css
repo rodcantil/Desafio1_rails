@@ -1,0 +1,13 @@
+.bg-navbar {
+  background-color: rgb(65, 228, 141);  
+}
+
+.rocket {
+  width: 30px;
+  filter: invert(50);
+
+}
+
+.rod {
+  width: 150px;
+}
