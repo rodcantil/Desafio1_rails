@@ -9,5 +9,11 @@
 }
 
 .rod {
-  width: 150px;
+  width: 100%;
+}
+
+.boton {
+  background-color: rgb(65, 228, 141);
+  color: white;
+  
 }
